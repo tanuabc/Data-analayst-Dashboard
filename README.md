@@ -1,2 +1,3 @@
-📊 Superstore Sales Dashboard (Excel)
+# 📊 Superstore Sales Dashboard (Excel)
+## Project Objective
 An interactive Superstore Sales Dashboard built using Microsoft Excel to analyze sales performance, profitability, customer segments, and regional trends across multiple years
