@@ -61,4 +61,8 @@ An interactive Superstore Sales Dashboard built using Microsoft Excel to analyze
 - Designed interactive KPIs and charts with slicers for year, month, segment, and region.
 - Combined all visuals into a single, user-friendly Excel dashboard for business insights.
 
+## Dashboard
+<img width="1635" height="696" alt="Screenshot 2026-01-07 182420" src="https://github.com/user-attachments/assets/4f471737-91c2-414d-a3a8-0352a6d334d7" />
+
+
 
